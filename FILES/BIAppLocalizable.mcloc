@@ -17,6 +17,8 @@
 		<string>German</string>
 		<key>SwedishValue</key>
 		<string>Möte</string>
+		<key>NorwegianValue</key>
+		<string>Møte</string>
 		<key>Value</key>
 		<string>Meeting</string>
 	</dict>
